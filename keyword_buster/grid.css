@@ -1,0 +1,16 @@
+.grid-cell {
+    background: white;
+    color: black;
+    /*padding: 1em;*/
+    /*border: 1px solid black;*/
+    /*display: inline-block;*/
+    border: solid black;
+    display: block;
+    width: auto;
+    text-align: center;
+}
+
+.selected {
+    background: blue;
+    color: white;
+}
